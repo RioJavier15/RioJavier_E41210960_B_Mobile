@@ -27,7 +27,7 @@ public class MainActivity extends AppCompatActivity {
 
 
 
-
+    //recycleview
     private List<mahasiswa> addData() {
         List<mahasiswa> mahasiswaList = new ArrayList<>();
         mahasiswaList.add(new mahasiswa("Rio Javier Reyhan", "E41210960", "089686673221"));;
